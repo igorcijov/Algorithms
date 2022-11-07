@@ -30,10 +30,10 @@ public class TestMySingleLinkedList {
         myLinkedList.pushToTail(8); //5
         myLinkedList.pushToHead(10); //0
         myLinkedList.pushToHead(2);
-      //  myLinkedList.remove(1);
-      //  myLinkedList.removeFirst();
-       // myLinkedList.removeLast();
-     //   myLinkedList.pushToIndex(7,11);
+        //  myLinkedList.remove(1);
+        //  myLinkedList.removeFirst();
+        // myLinkedList.removeLast();
+        myLinkedList.pushToIndex(8, 11);
 
 
         myLinkedList.print();
